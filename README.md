@@ -1,6 +1,6 @@
 # D-Link-DCS-8000LH-Service-Codes
 ## D-Link DCS-8000LH Service Codes / Date / Time / IR on-off e.t.c.
-The User is: Admin - with no password
+The User is always: Admin - with no password
 
 In the D-Link forums, people have always wondered how to set the time and date on the camera locally.
 To do this, they always tried by mistake method=1 from the 'service codes'.
