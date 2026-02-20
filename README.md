@@ -22,7 +22,7 @@ https://192.168.178.20/config/datetime.cgi?method=2&timezone=53&date=2026-02-20&
 rtsp://admin@192.168.178.20/live1.sdp
 
 ### ––––––––––––––––––––––––––––––––––––––––––––––––––––
-### COMMANDS – Playground
+### COMMANDS – Playground - Kindergarten :-)
 
 ### Camera info
 /common/info.cgi
