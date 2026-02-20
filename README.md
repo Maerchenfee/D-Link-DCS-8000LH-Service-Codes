@@ -14,7 +14,7 @@ https://192.168.178.20/config/datetime.cgi?timeserver=XXXXXXX
 exchange the timezone (Number) for your Area (google it) Time and Date:
 (Example for Berlin in 2026)
 
-http://192.168.178.20/config/datetime.cgi?method=2&timezone=53&date=2026-02-20&time=08:33:30&dstenable=no&dstauto=no
+https://192.168.178.20/config/datetime.cgi?method=2&timezone=53&date=2026-02-20&time=08:33:30&dstenable=no&dstauto=no
 
 ### 3. Now you can open the camera's video stream in VLC Player with your Time and Date.
 
