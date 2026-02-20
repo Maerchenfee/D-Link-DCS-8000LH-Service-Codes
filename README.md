@@ -11,7 +11,8 @@ After a few attempts, I managed to do this under method=2. And BOOM.
 https://192.168.178.20/config/datetime.cgi?timeserver=XXXXXXX
 
 ### 2. The next step for the command date/time is
-exchange the timezone (Number) for your Area (google it) ande Time and Date:
+exchange the timezone (Number) for your Area (google it) Time and Date:
+(Example for Berlin in 2026)
 
 http://192.168.178.20/config/datetime.cgi?method=2&timezone=53&date=2026-02-20&time=08:33:30&dstenable=no&dstauto=no
 
