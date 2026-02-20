@@ -5,7 +5,7 @@ The User is always: Admin - with no password
 In the D-Link forums, people have always wondered how to set the time and date on the camera locally.
 To do this, they always tried by mistake method=1 from the 'service codes'.
 After a few attempts, I managed to do this under method=2. And BOOM. 
-### Important: After a reset or power failure, the steps must be repeated and the camera loses the preset values.
+Important: After a reset or power failure, the steps must be repeated and the camera loses the preset values.
 
 ### 1. Before doing so, the correct TIMESERVER (replace the XXXXXXX / internet search) should be set:
 
