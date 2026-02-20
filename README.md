@@ -6,7 +6,7 @@ In the D-Link forums, people have always wondered how to set the time and date o
 To do this, they always tried by mistake method=1 from the 'service codes'.
 After a few attempts, I managed to do this under method=2. And BOOM. 
 
-### 1. Before doing so, the correct TIMESERVER (replace the XXXXXXX) should be set:
+### 1. Before doing so, the correct TIMESERVER (replace the XXXXXXX / internet search) should be set:
 
 https://192.168.178.20/config/datetime.cgi?timeserver=XXXXXXX
 
