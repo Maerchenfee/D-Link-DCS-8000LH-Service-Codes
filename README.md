@@ -5,6 +5,9 @@ The User is always: Admin - with no password
 You can only editing the following commands over
 the Input Field in a Webbrowser (eg. Firefox / Safari) 
 
+The List of Timeservers: mutin-sa/Top_Public_Time_Servers.md
+
+
 In the D-Link forums, people have always wondered how to set the time and date on the camera locally.
 To do this, they always tried by mistake method=1 from the 'service codes'.
 After a few attempts, I managed to do this under method=2. And BOOM. 
